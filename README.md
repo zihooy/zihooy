@@ -3,9 +3,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzihooy%2Fhit-counter&count_bg=%23AD8AD7&title_bg=%235173C4&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-GitHub until 2021　　　　　　　　　　　　　　　　　　　　　　　　　　　　GitHub from 2022
+GitHub until 2021
 
 ![Jihu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihuYang&show_icons=true&theme=dracula)
+
+GitHub from 2022
+
 ![Jihu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zihooy&show_icons=true&theme=dracula)
 
 
