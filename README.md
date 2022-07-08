@@ -35,7 +35,11 @@ GitHub from 2022
 
 ### Projcets
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeeunJ&repo=COTO)](https://github.com/YeeunJ/COTO)
- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JihuYang&repo=HGU_CU)](https://github.com/JihuYang/HGU_CU)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JihuYang&repo=MBTI-Project)](https://github.com/JihuYang/MBTI-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yedindin&repo=ElectricCar)](https://github.com/Yedindin/ElectricCar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gomster96&repo=LearnTube)](https://github.com/gomster96/LearnTube)
+
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zihooy139@gmail.com)](mailto:kimsh1691@gmail.com)
 
