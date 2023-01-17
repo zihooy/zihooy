@@ -34,11 +34,12 @@ GitHub from 2022
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ### Projcets
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YeeunJ&repo=COTO)](https://github.com/YeeunJ/COTO)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JihuYang&repo=HGU_CU)](https://github.com/JihuYang/HGU_CU)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JihuYang&repo=MBTI-Project)](https://github.com/JihuYang/MBTI-Project)
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yedindin&repo=ElectricCar)](https://github.com/Yedindin/ElectricCar)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gomster96&repo=LearnTube)](https://github.com/gomster96/LearnTube)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=seungjoonH&repo=sthep)](https://github.com/seungjoonH/sthep)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Yedindin&repo=ElectricCar)](https://github.com/Yedindin/ElectricCar)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JihuYang&repo=MBTI-Project)](https://github.com/JihuYang/MBTI-Project)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JihuYang&repo=HGU_CU)](https://github.com/JihuYang/HGU_CU)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=YeeunJ&repo=COTO)](https://github.com/YeeunJ/COTO)
 
 
 # :mailbox_with_mail: Contacts
